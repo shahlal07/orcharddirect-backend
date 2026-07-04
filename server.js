@@ -48,3 +48,8 @@ app.put("/api/admin/settings", verifyAdmin, (req, res) => { /* ... */ });
 app.put("/api/admin/discounts", verifyAdmin, (req, res) => { /* ... */ });
 
 // ... [Keep your existing public routes and checkout logic] ...
+app.use(cors({
+  origin: ["https://sweetmangoes.vercel.app", "https://your-admin-url.vercel.app"], // Add your Vercel domains here
+  methods: ["GET", "POST", "PUT", "DELETE"],
+  credentials: true
+}));
