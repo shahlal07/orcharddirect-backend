@@ -1,0 +1,124 @@
+[
+  {
+    "id": "sindhri",
+    "name": "Sindhri Mango",
+    "origin": "Mirpurkhas, Sindh",
+    "season": "May \u2013 June",
+    "rating": 4.8,
+    "reviewCount": 312,
+    "tagline": "The golden classic. Sweet, fibreless, and juicy.",
+    "image": "https://images.unsplash.com/photo-1591073113125-e46713c829ed?w=800",
+    "gallery": [
+      "https://images.unsplash.com/photo-1591073113125-e46713c829ed?w=800",
+      "https://images.unsplash.com/photo-1591073113125-e46713c829ed?w=800&sat=-20",
+      "https://images.unsplash.com/photo-1591073113125-e46713c829ed?w=800&sat=20"
+    ],
+    "codAvailable": true,
+    "variants": [
+      {
+        "label": "5kg",
+        "price": 2200,
+        "stock": 25
+      },
+      {
+        "label": "10kg",
+        "price": 4200,
+        "stock": 25
+      },
+      {
+        "label": "20kg (bulk)",
+        "price": 7800,
+        "stock": 25
+      }
+    ]
+  },
+  {
+    "id": "chaunsa",
+    "name": "Chaunsa Mango",
+    "origin": "Multan, Punjab",
+    "season": "June \u2013 August",
+    "rating": 4.9,
+    "reviewCount": 508,
+    "tagline": "Pakistan's most exported variety. Rich, honeyed sweetness.",
+    "image": "https://images.unsplash.com/photo-1553279768-865429fa0078?w=800",
+    "gallery": [
+      "https://images.unsplash.com/photo-1553279768-865429fa0078?w=800",
+      "https://images.unsplash.com/photo-1553279768-865429fa0078?w=800&sat=-20",
+      "https://images.unsplash.com/photo-1553279768-865429fa0078?w=800&sat=20"
+    ],
+    "codAvailable": true,
+    "variants": [
+      {
+        "label": "5kg",
+        "price": 2400,
+        "stock": 25
+      },
+      {
+        "label": "10kg",
+        "price": 4600,
+        "stock": 25
+      },
+      {
+        "label": "20kg (bulk)",
+        "price": 8600,
+        "stock": 25
+      }
+    ]
+  },
+  {
+    "id": "anwar-ratol",
+    "name": "Anwar Ratol Mango",
+    "origin": "Rahim Yar Khan, Punjab",
+    "season": "June \u2013 July",
+    "rating": 4.7,
+    "reviewCount": 189,
+    "tagline": "Small, fragrant, and intensely sweet. A connoisseur's favourite.",
+    "image": "https://images.unsplash.com/photo-1605027990121-3b176ba1d9c3?w=800",
+    "gallery": [
+      "https://images.unsplash.com/photo-1605027990121-3b176ba1d9c3?w=800",
+      "https://images.unsplash.com/photo-1605027990121-3b176ba1d9c3?w=800&sat=-20",
+      "https://images.unsplash.com/photo-1605027990121-3b176ba1d9c3?w=800&sat=20"
+    ],
+    "codAvailable": true,
+    "variants": [
+      {
+        "label": "5kg",
+        "price": 2600,
+        "stock": 25
+      },
+      {
+        "label": "10kg",
+        "price": 5000,
+        "stock": 25
+      }
+    ]
+  },
+  {
+    "id": "langra",
+    "name": "Langra Mango",
+    "origin": "Multan, Punjab",
+    "season": "July \u2013 August",
+    "rating": 4.6,
+    "reviewCount": 121,
+    "tagline": "Tangy-sweet with a distinctive green skin, even fully ripe.",
+    "image": "https://images.unsplash.com/photo-1601493700631-2b16ec4b4716?w=800",
+    "gallery": [
+      "https://images.unsplash.com/photo-1601493700631-2b16ec4b4716?w=800",
+      "https://images.unsplash.com/photo-1601493700631-2b16ec4b4716?w=800&sat=-20",
+      "https://images.unsplash.com/photo-1601493700631-2b16ec4b4716?w=800&sat=20"
+    ],
+    "codAvailable": true,
+    "variants": [
+      {
+        "label": "5kg",
+        "price": 2000,
+        "stock": 25
+      },
+      {
+        "label": "10kg",
+        "price": 3800,
+        "stock": 25
+      }
+    ]
+  }
+]
