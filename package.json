@@ -1,14 +1,13 @@
 {
   "name": "orcharddirect-backend",
   "version": "1.0.0",
-  "description": "Minimal Express backend for the OrchardDirect mango store — orders API and payment gateway stubs.",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",
-    "dev": "node --watch server.js"
+    "start": "node server.js"
   },
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.19.2"
+    "express": "^4.17.1",
+    "jsonwebtoken": "^9.0.0"
   }
 }
